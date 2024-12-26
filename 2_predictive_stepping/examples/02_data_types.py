@@ -45,3 +45,4 @@ fail_check_float = isinstance(a_float, int)
 fail_check_boolean = isinstance(a_boolean, str)
 
 print("end of script")
+print(type(a_string))

@@ -13,6 +13,9 @@ _01_and_tt = True and True
 _02_and_tf = True and False
 _03_and_ft = False and True
 _04_and_ff = False and False
+_00_understand = 0==0 and 1!=1
+_00_understand = 0==0 and 1==1
+
 
 _05_or_tt = True or True
 _06_or_tf = True or False
